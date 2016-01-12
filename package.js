@@ -7,7 +7,7 @@ Package.describe({
 });
 
 Npm.depends({
-  'react-intl': '2.0.0-pr-3',
+  'react-intl': '2.0.0-beta-2',
   'externalify': '0.1.0',
   'intl': '1.0.1'
 });
