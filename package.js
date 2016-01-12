@@ -1,6 +1,6 @@
 Package.describe({
   name: 'omega:react-intl',
-  version: '1.0.0',
+  version: '1.0.1',
   summary: 'Just a wrapper for react-intl.',
   git: 'https://github.com/wojtkowiak/meteor-react-intl',
   documentation: 'README.md'
